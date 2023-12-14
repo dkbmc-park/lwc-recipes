@@ -1,6 +1,6 @@
 export default {
     nodes: [
-        { id: 'Myriel', group: 1 },
+        { id: 'Myriel', group: 1111 },
         { id: 'Napoleon', group: 1 },
         { id: 'Mlle.Baptistine', group: 1 },
         { id: 'Mme.Magloire', group: 1 },
